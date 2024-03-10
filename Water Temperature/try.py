@@ -38,3 +38,6 @@ print(fan_simulation.output['fan_speed'])
 # Plot the results
 temperature.view()
 #fan_speed.view()
+
+
+# leandro was here
